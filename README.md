@@ -2,7 +2,7 @@
 
 🎓 A passionate Computer Engineering student at Dharmsinh Desai University with a CPI of 9.3  
 💡 Focused on full-stack development, scalable backend systems, and smart software solutions  
-🔥 250+ problems solved on LeetCode | Active contributor on GeeksforGeeks  
+🔥 300+ problems solved on LeetCode | Active contributor on GeeksforGeeks  
 📍 Based in Madhapar (Bhuj), Kutch, India  
 
 ---
